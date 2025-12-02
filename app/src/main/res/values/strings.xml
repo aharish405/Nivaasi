@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nivaasi</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="tenants">Tenants</string>
+    <string name="transactions">Transactions</string>
+    <string name="profile">Profile</string>
+    <string name="search_tenant">Search by name or number</string>
+    <string name="call">Call</string>
+    <string name="message">Message</string>
+    <string name="logout">Logout</string>
+</resources>
